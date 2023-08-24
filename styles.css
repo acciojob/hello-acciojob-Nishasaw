@@ -1,2 +1,15 @@
-
+body{
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif
+}
+.accio{
+	height: 150px;
+	background-color: #000000;
+}
+.hello-accio{
+	color: #ffffff;
+	 margin-left: 32px;
+	padding: 10px;
+}
 /* Your CSS Code here. */
