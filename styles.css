@@ -4,6 +4,7 @@ body{
 	font-family: Arial, sans-serif
 }
 .accio{
+	width: 150px;
 	height: 150px;
 	background-color: #000000;
 }
